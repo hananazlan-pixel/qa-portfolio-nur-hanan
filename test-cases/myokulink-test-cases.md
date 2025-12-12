@@ -2,11 +2,13 @@
 
 ---
 
-Test Case ID: TC-MYO-001  
-Title: Verify user can log in with valid credentials  
+Test Case ID: MY_001 
+Title: Test the Login Functionality in MYOKULink 
 
-Precondition:
-- User has a registered account
+Prerequisites:
+- Launch MY OKULink app
+- Internet connection
+- User already create an account
 
 Steps:
 1. Open MY OKULink app
@@ -19,7 +21,7 @@ Expected Result:
 
 ---
 
-Test Case ID: TC-MYO-002  
+Test Case ID: MY_002
 Title: Verify error message is shown for invalid login  
 
 Steps:
@@ -32,7 +34,7 @@ Expected Result:
 
 ---
 
-Test Case ID: TC-MYO-003  
+Test Case ID: MY_003  
 Title: Verify user can log out successfully  
 
 Steps:
