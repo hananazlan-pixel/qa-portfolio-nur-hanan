@@ -5,14 +5,14 @@ Application Type:
 
 Testing Scope:
 - Login
-- Registration
+- Register
 - Community page
 - Information listings
+- Profile page
+- Accessibility settings
 
 Test Types:
 - Functional Testing
-- Smoke Testing
-- Basic Regression Testing
 
 Goal:
 - Ensure core features function correctly and provide a stable user experience.
