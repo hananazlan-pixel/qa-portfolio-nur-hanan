@@ -3,6 +3,7 @@ Functional Testing
 Functional testing was performed to ensure that each feature in MY OKULink works in line with the system requirements and carries out its intended tasks without any errors. This testing focused on all key modules of the application, including user authentication, dashboard navigation, community posting functionality, user profile management, directory access, accessibility options, and chatbot interactions. Every function was evaluated using established test cases to verify proper input management, precise output, seamless navigation, and effective communication between frontend and backend services. The functional testing results confirm that the application's primary functions operate as anticipated and deliver a consistent user experience. The MY OKULink system test cases are displayed in Table 1 through Table 11.
 
 <img width="731" height="538" alt="image" src="https://github.com/user-attachments/assets/381ba4ac-3f06-4cb4-bb5d-0ec8f538e4be" />
+
 ------
 Table 1: Register Page Test Case
 
